@@ -8,6 +8,10 @@ body {
   font-family: Garamond, serif;
 }
 
+img {
+  width: 200px;
+}
+
 .timeline {
   position: relative;
   max-width: 1200px;

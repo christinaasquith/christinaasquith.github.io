@@ -8,16 +8,19 @@ body {
   font-family: Garamond, serif;
 }
 
-img {
-  width: 200px;
-}
+/*make a background photo*/
 
+img {
+  width: 500px;
+}
+/* the actual timeline vertical ruler */
 .timeline {
   position: relative;
   max-width: 1200px;
   margin: 0 auto;
 }
 
+/* the actual timeline vertical ruler */
 .timeline::after {
   content: '';
   position: absolute;
@@ -29,6 +32,7 @@ img {
   margin-left: -3px
 }
 
+/*container around content */
 .container {
   padding: 10px 40px;
   position: relative;

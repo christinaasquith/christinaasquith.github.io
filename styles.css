@@ -2,10 +2,13 @@
   box-sizing: border-box;
 }
 
-/* Set a background color */
+/* Set a background image */
 body {
-  background-color: #67659c;
+  background-size:cover;
+  background-image: url("craig.jpg");
   font-family: Garamond, serif;
+  text-align: center;
+  color: darkblue;
 }
 
 /*make a background photo*/

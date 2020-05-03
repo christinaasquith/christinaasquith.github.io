@@ -2,24 +2,38 @@
   box-sizing: border-box;
 }
 
+.css-selector {
+font-family: 'tangerine', serif;
+}
+
+
+
 /* Set a background image */
 body {
-  background-size:cover;
-  background-image: white;
-  font-family: Garamond, serif;
+  Background-color: rgb(238, 202, 135); 
+  background-size: cover;
+  font-family: fantasy, serif;
   text-align: center;
   color: black;
 }
+.name {
+  color: orange;
+  font-family:fantasy;
+}
 /*highlight  text*/
 mark {
-background-color: rgb(248, 230, 194);
+background-color: rgb(252, 246, 235);
 } 
 
 /*photo size*/
 img {
   width: 180px;
-  border-radius: 50%;
+  border-radius: 15%;
  }
+/*underline in purple*/
+  wavy {
+    text-decoration: underline wavy violet;
+  }
 
 /* the actual timeline vertical ruler */
 .timeline {
@@ -41,7 +55,7 @@ img {
 } 
 /*container around content */
 .container {
-  padding: 4px 10px;
+  padding: 2px 5px;
   position: relative;
   background-color: orange;
   width: 50%;
@@ -101,7 +115,7 @@ img {
 }
 /* the actual content */
 .content {
-  padding: 20px 30px;
+  padding: 10px 15px;
   background-color: white;
   position: relative;
   border-radius: 6px;
@@ -136,3 +150,5 @@ img {
     left: 0%;
   }
 }
+
+</body>

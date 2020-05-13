@@ -1,24 +1,19 @@
 * {
   box-sizing: border-box;
 }
-
 .css-selector {
-font-family: 'tangerine', serif;
+font-family: 'Montserrat', sans-serif;
 }
-
-
-
 /* Set a background image */
 body {
   Background-color: rgb(238, 202, 135); 
   background-size: cover;
-  font-family: fantasy, serif;
+  font-family: "Montserrat", sans-serif;
   text-align: center;
   color: black;
 }
 .name {
   color: orange;
-  font-family:fantasy;
 }
 /*highlight  text*/
 mark {
@@ -27,7 +22,7 @@ background-color: rgb(252, 246, 235);
 
 /*photo size*/
 img {
-  width: 180px;
+  width: 240px;
   border-radius: 15%;
  }
 /*underline in purple*/

@@ -1,5 +1,21 @@
+.pic{
+  width:240px;
+}
+.size{
+  width:240px;
+}
+
+.width{
+ width:240px;
+}
+
+img {
+  width: 240px;
+  border-radius: 15%;
+ }
+
 .header-link {
-  margin-left: 15px;
+  margin-left: 40px;
 }
 
 * {

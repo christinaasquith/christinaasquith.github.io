@@ -8,6 +8,9 @@
 .width{
  width:240px;
 }
+img{
+  object-fit: cover;
+}
 
 img {
   width: 240px;

@@ -36,6 +36,9 @@ body {
 }
 .name {
   color: orange;
+
+  padding:12px;
+  text-shadow:0 15px 16px #af543d;
 }
 /*highlight  text*/
 mark {

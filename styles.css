@@ -33,6 +33,10 @@ img {
   margin-left: 40px;
 }
 
+.construction {
+  font-size: 14px;
+
+}
 * {
   box-sizing: border-box;
 }
@@ -41,20 +45,24 @@ font-family: 'Montserrat', sans-serif;
 }
 /* Set a background image */
 body {
-  Background-color: white; 
+  Background-color: black; 
   background-size: cover;
   font-family: "Montserrat", sans-serif;
-  color: black;
+  color: white;
 }
 .name {
-  color: black;
+  color: white;
 
   padding:12px;
-  text-shadow:0 15px 16px black;
+  text-shadow:0 15px 16px whitesmoke;
+}
+.end {
+  text-shadow:0 15px 16px whitesmoke;
+
 }
 /*highlight  text*/
 mark {
-background-color: rgb(252, 246, 235);
+background-color: white;
 } 
 
 /*photo size*/

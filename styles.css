@@ -8,6 +8,7 @@ body {
   margin: auto;
   max-width: 800px;
   min-height:93vh;
+  font: 
 }
 
 .pic{
@@ -45,7 +46,7 @@ font-family: 'Montserrat', sans-serif;
 }
 /* Set a background image */
 body {
-  Background-color: black; 
+  Background-color: #272a2e; 
   background-size: cover;
   font-family: "Montserrat", sans-serif;
   color: white;

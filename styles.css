@@ -13,17 +13,11 @@ body {
   justify-content: center;
   align-items: center;
   background-size: cover;
-  background: rgb(84, 48, 180);
-  background: linear-gradient(90deg, rgb(105, 36, 114) 0%, rgb(83, 75, 85) 52%, rgb(77, 77, 173) 100%);
+  background: rgb(242, 240, 247);
+  background: linear-gradient(90deg, rgb(61, 61, 68) 0%, rgb(201, 194, 202) 52%, rgb(61, 61, 68) 100%);
   
 }
-
-.head {
-  background: linear-gradient(90deg, rgb(199, 183, 201) 0%, rgb(197, 189, 199) 52%, rgb(168, 168, 209) 100%);
-
-
-  border-radius: 15%;
-}
+ 
 
 .pic{
   width:240px;

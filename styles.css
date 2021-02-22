@@ -18,6 +18,13 @@ body {
   
 }
 
+.head {
+  background: linear-gradient(90deg, rgb(199, 183, 201) 0%, rgb(197, 189, 199) 52%, rgb(168, 168, 209) 100%);
+
+
+  border-radius: 15%;
+}
+
 .pic{
   width:240px;
 }

@@ -13,8 +13,8 @@ body {
   justify-content: center;
   align-items: center;
   background-size: cover;
-  background: rgb(242, 240, 247);
-  background: linear-gradient(90deg, rgb(61, 61, 68) 0%, rgb(201, 194, 202) 52%, rgb(61, 61, 68) 100%);
+  background: whitesmoke
+  background: white
   
 }
  
@@ -54,7 +54,7 @@ font-family: 'Montserrat', sans-serif;
 }
 /* Set a background image */
 body {
-  Background-color: #5c5861; 
+  Background-color: black; 
   background-size: cover;
   font-family: "Montserrat", sans-serif;
   color: white;

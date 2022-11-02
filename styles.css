@@ -69,6 +69,13 @@ body {
   text-shadow:0 15px 16px whitesmoke;
 
 }
+a:link {
+  color: pink;
+
+}
+a:visited {
+  color:pink;
+}
 /*highlight  text*/
 mark {
 background-color: white;

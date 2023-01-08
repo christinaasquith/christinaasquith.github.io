@@ -41,7 +41,9 @@ img {
 .header-link {
   margin-left: 40px;
 }
-
+h2 {
+  font-family: italics;
+}
 .construction {
   font-size: 14px;
 
